@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netart_Landing/static/css/main.6d51f5cd.css",
+    "main.js": "/Netart_Landing/static/js/main.23d69fe9.js",
+    "static/js/787.6606bfd5.chunk.js": "/Netart_Landing/static/js/787.6606bfd5.chunk.js",
+    "index.html": "/Netart_Landing/index.html",
+    "main.6d51f5cd.css.map": "/Netart_Landing/static/css/main.6d51f5cd.css.map",
+    "main.23d69fe9.js.map": "/Netart_Landing/static/js/main.23d69fe9.js.map",
+    "787.6606bfd5.chunk.js.map": "/Netart_Landing/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d51f5cd.css",
+    "static/js/main.23d69fe9.js"
+  ]
+}
